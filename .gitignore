@@ -1,0 +1,23 @@
+# Arduino
+build/
+*.hex
+*.bin
+*.elf
+*.map
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Config lokal
+firmware/config/config_wifi_local.h
+
+# Backup
+*.bak
+*.old
+*~
